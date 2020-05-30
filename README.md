@@ -1,2 +1,2 @@
 # aarts-home
-Home for example apps using aws lambda and dynamodb
+Example apps using aws lambda and dynamodb
